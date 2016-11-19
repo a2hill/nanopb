@@ -18,5 +18,6 @@
   ],
   "examples": "examples/*/*.c",
   "frameworks": "*",
-  "platforms": "*"
+  "platforms": "*",
+  "version": "0.3.6"
 }
